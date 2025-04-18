@@ -24,14 +24,6 @@ const Footer = () => {
                 >
                     <FontAwesomeIcon icon={faLinkedin} size="2x" />
                 </a>
-                <a
-                href=""
-                target="_blank"
-                rel="noopener noreferrer"
-                className="social-icon"
-                >
-                    <FontAwesomeIcon icon={faIndeed} size="2x" />
-                </a>
             </div>
         </footer>
     );

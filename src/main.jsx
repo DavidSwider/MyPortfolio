@@ -1,10 +1,10 @@
 import ReactDOM from 'react-dom/client';
 import React from 'react';
-import ErrorPage from './error-page.jsx';
-import AboutPage from './AboutPage.jsx';
-import Contact from './Contact.jsx';
-import ResumePage from './ResumePage.jsx';
-import ProjectPage from './ProjectPage.jsx';
+import ErrorPage from './pages/ErrorPage.jsx';
+import AboutmePage from './pages/AboutmePage.jsx';
+import Contact from './pages/ContactPage.jsx';
+import ResumePage from './pages/ResumePage.jsx';
+import ProjectsPage from './pages/ProjectsPage.jsx';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -20,23 +20,19 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <HomePage />,
-      },
-      {
-        path: 'about',
-        element: <AboutPage />,
+        element: <AboutmePage />,
       },
       {
         path: 'contact',
         element: <Contact />,
       },
       {
-        path: 'profilePage',
-        element: <ProfilePage />,
+        path: 'projects',
+        element: <ProjectsPage />,
       },
       {
         path: 'resume',
-        element: <Resume />,
+        element: <ResumePage />,
       },
     ],
   },
