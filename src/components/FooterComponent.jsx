@@ -7,12 +7,12 @@ const Footer = () => {
     return (
         <footer className="footer">
             <p>2025 David Swider. All Rights Reserved.</p>
-            <div className="social-icons">
+            <div className="icon-links">
                 <a 
                 href=""
                 target="_blank"
                 rel="noopener noreferrer"
-                className="social-icon"
+                className="icons"
                 >
                     <FontAwesomeIcon icon={faGithub} size="2x" />
                 </a>
@@ -20,7 +20,7 @@ const Footer = () => {
                 href=""
                 target="_blank"
                 rel="noopener noreferrer"
-                className="social-icon"
+                className="icons"
                 >
                     <FontAwesomeIcon icon={faLinkedin} size="2x" />
                 </a>
