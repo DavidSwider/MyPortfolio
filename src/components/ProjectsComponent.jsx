@@ -3,25 +3,25 @@ import "../css/Projects.css";
 
 const ProjectsComponents = [
         {
-            title: "Task List App",
-            description: "A simple task list application built with React. Users can add, delete, and mark tasks as completed.",
+            title: "Storm Chaser",
+            description: "Storm Chaser is a realtime weather App that shows an extendted 5 day forcast.",
             technologies: ["React", "JavaScript", "CSS"],
-            liveLink: "https://example.com/task-list-app",
-            image: "https://via.placeholder.com/150",
+            liveLink: "https://strom-chaser.onrender.com",
+            image: "https://superdevresources.com/wp-content/uploads/2014/02/Weather-Api.jpg",
         },
         {
-            title: "Weather App",
-            description: "A weather application that fetches data from a weather API and displays current weather conditions.",
+            title: "Task List App",
+            description: "The Task List App is a full-stack web application that allows users to add, update, retrieve, and delete tasks while ensuring secure authentication with JWT (JSON Web Token). This app is built using React for the frontend, GraphQL with Node.js and Express.js for the backend, and MongoDB with Mongoose for the database. It also integrates GitHub Actions for CI/CD and is deployed on Render.",
             technologies: ["React", "API", "CSS"],
-            liveLink: "https://example.com/weather-app",
-            image: "https://via.placeholder.com/150",
+            liveLink: "https://finalproject-3922.onrender.com/",
+            image: "https://www.proofhub.com/articles/wp-content/uploads/2023/11/Best-To-Do-List-Apps-For-Better-Task-Management.jpg",
         },
         {
-            title: "Portfolio Website",
-            description: "A personal portfolio website to showcase my projects and skills.",
+            title: "Candidate Search",
+            description: "The Candidate Search Application is a web-based tool that allows users to review potential candidates and save or reject them. It displays relevant details about each candidate, provides navigation through available candidates, and maintains a list of saved candidates even after page reloads.",
             technologies: ["React", "CSS"],
-            liveLink: "https://example.com/portfolio",
-            image: "https://via.placeholder.com/150",
+            liveLink: "https://candidatesearch-ndbo.onrender.com",
+            image: "https://github.com/DavidSwider/CandidateSearch/raw/main/image.png",
         },
     ];
 

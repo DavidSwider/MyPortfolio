@@ -13,7 +13,7 @@ const AboutmeComponent = () => {
       </p>
     </div>
   );
-}
+};
 
 export default AboutmeComponent;
 // This component serves as a simple "About Me" section for a portfolio website.

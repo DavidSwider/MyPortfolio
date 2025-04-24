@@ -38,7 +38,7 @@ const FormComponent = () => {
     return (
         <div className="form-container">
             <h2>Contact Me</h2>
-            <form onSubmit={handleSubmit}>
+            <form className="contact-form" onSubmit={handleSubmit}>
                 <input 
                     type="text" 
                     name="name" 
