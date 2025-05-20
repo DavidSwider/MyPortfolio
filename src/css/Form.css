@@ -23,6 +23,7 @@
     margin: 0;
     border: 1px solid #ccc;
     border-radius: 4px;
+    color-scheme: light dark;
 }
 
 .contact-form button {

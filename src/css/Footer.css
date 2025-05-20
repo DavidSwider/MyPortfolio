@@ -11,10 +11,11 @@
 
 .icons {
     margin: 10px;
+    color: #646cff;
 }
 
 .icon-links {
-    color: white;
+    color: #646cff;
     text-decoration: none;
     font-size: 24px;
 }

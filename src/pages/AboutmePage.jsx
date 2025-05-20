@@ -12,9 +12,10 @@ const AboutmePage = () => {
                 <Card.Body>
                     <p>Here you can find out more about me and my background.</p>
                 </Card.Body>
-            <h1>A little to know about me</h1>
             </Card>
+            <Card>
             <AboutmeComponent />
+            </Card>
         </Container>
     );
 };

@@ -13,6 +13,7 @@
 }
 
 .navbar-links {
+    list-style: none;
     float: right;
     display: flex;
     align-items: center;
@@ -25,4 +26,7 @@
     text-decoration: none;
     gap: 10px;
     position: relative;
+}
+.navbar-title {
+    text-align: center;
 }
