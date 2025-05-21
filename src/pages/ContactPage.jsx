@@ -10,7 +10,8 @@ const ContactPage = () => {
                     <h1>Contact Me</h1>
                 </Card.Header>
                 <Card.Body>
-                    <p>If you have any questions or would like to get in touch, please fill out the form below:</p>
+                    <p><strong>Phone</strong> (860)-378-5676</p>
+                    <p><strong>Email:</strong> Davidswider6@gmail.com</p>
                 </Card.Body>
                 </Card>
             <FormComponent />

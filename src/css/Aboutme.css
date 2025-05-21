@@ -7,7 +7,7 @@
   border-color: rgb(234, 238, 241);
   box-sizing: border-box;
   background-color: #333;
-  background-image: url('/images/React-Logo.png');
+  background-image: url('/images/coding.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@
 }
 
 .about-me-text {
-  font-size: 38px;
+  font-size: 30px;
   color: #ffffff;
   text-align: center;
   margin-bottom: 20px;

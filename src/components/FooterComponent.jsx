@@ -9,7 +9,7 @@ const Footer = () => {
             <p>© 2025 David Swider. All Rights Reserved.</p>
             <div className="icon-links">
                 <a 
-                href=""
+                href="https://github.com/DavidSwider"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="icons"

@@ -10,7 +10,7 @@ const AboutmePage = () => {
                     <h1>About Me</h1>
                 </Card.Header>
                 <Card.Body>
-                    <p>Here you can find out more about me and my background.</p>
+                    <h5>Here you can find out more about me and my background.</h5>
                 </Card.Body>
             </Card>
             <Card>
