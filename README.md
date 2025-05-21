@@ -1,12 +1,46 @@
-# React + Vite
+# 👋 David Swider's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio site! This project showcases my journey from a Military Data Analyst to a Full Stack Web Developer. Built with modern technologies, it highlights my skills, projects, and experiences.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live site here: [Your Live Site URL](#)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Authentication:** JSON Web Tokens (JWT)
+- **Database:** MongoDB with Mongoose
+- **Testing:** Cypress
+- **CI/CD:** GitHub Actions
+- **Deployment:** Render
+
+## 🚀 Features
+
+- **Responsive Design:** Optimized for all devices.
+- **Project Showcase:** Detailed view of my projects with links to repositories.
+- **Authentication:** Secure login system using JWT.
+- **Contact Form:** Reach out to me directly through the site.
+- **Automated Testing:** Ensures reliability with Cypress tests.
+- **Continuous Deployment:** Seamless updates via GitHub Actions and Render.
+
+## 📸 Screenshots
+
+![Homepage](./public/images/aboutme.png)
+
+![Task List App](./public/images/tasklist.png)
+
+## 🧪 Running Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/DavidSwider/MyPortfolio.git
+   cd MyPortfolio
+
+## 📬 Contact Me
+
+- 📧 **Email:** [davidswider6@gmail.com](mailto:davidswider6@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/david-swider-4a3](https://www.linkedin.com/in/david-swider-4a3)  
+- 💻 **GitHub:** [github.com/DavidSwider](https://github.com/DavidSwider)  
+- 🌐 **Portfolio Website:** [Your Live Portfolio Link](#)
