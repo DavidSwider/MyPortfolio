@@ -4,7 +4,7 @@ Welcome to my personal portfolio site! This project showcases my journey from a 
 
 ## 🌐 Live Demo
 
-Check out the live site here: [Your Live Site URL](#)
+Check out the live site here: [https://swiderportfolio.netlify.app/resume](#)
 
 ## 🛠️ Tech Stack
 
@@ -43,4 +43,4 @@ Check out the live site here: [Your Live Site URL](#)
 - 📧 **Email:** [davidswider6@gmail.com](mailto:davidswider6@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/david-swider-4a3](https://www.linkedin.com/in/david-swider-4a3)  
 - 💻 **GitHub:** [github.com/DavidSwider](https://github.com/DavidSwider)  
-- 🌐 **Portfolio Website:** [Your Live Portfolio Link](#)
+- 🌐 **Portfolio Website:** [https://swiderportfolio.netlify.app/resume](#)
