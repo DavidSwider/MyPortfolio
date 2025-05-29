@@ -23,6 +23,13 @@ const ProjectsComponents = [
             liveLink: "https://candidatesearch-ndbo.onrender.com",
             image: "https://github.com/DavidSwider/CandidateSearch/raw/main/image.png",
         },
+        {
+            title: "GitHub-Action",
+            description: "This project is a full-stack application that incorporates Cypress component testing and automated deployment using GitHub Actions and Render. The application follows a structured development workflow where new features are tested before merging to the main branch.",
+            technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Cypress", "GitHub Actions"],
+            liveLink: "https://github-action-bsv7.onrender.com",
+            image: "/images/github-action.jpg",
+        },
     ];
 
 const ProjectsComponent = () => {
