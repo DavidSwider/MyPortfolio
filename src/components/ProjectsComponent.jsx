@@ -30,6 +30,13 @@ const ProjectsComponents = [
             liveLink: "https://github-action-bsv7.onrender.com",
             image: "/images/github-action.jpg",
         },
+         {
+            title: "Book Search Engine",
+            description: "The Book Search Engine is a web application that allows users to search for books, create an account, and save their favorite books. The app integrates with the Google Books API to fetch book details and uses a secure authentication system for user accounts. Users can search for books without logging in but need to sign up to save books to their account.",
+            technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Mongoose", "GraphQL ", "JSON Web Tokens (JWT)", "Apollo Client", "Google Books API"],
+            liveLink: "https://bookengine-ap4q.onrender.com",
+            image: "/images/books.png",
+        },
     ];
 
 const ProjectsComponent = () => {
@@ -39,8 +46,8 @@ const ProjectsComponent = () => {
             <div className="projects-grid">
                 {ProjectsComponents.map((project, index) => (
                     <div key={index} className="project-card">
-                        <img src={project.image} alt={project.title} className="project-image" />
                         <h2 className="project-title">{project.title}</h2>
+                        <img src={project.image} alt={project.title} className="project-image" />
                         <p className="project-description">{project.description}</p>
                         <p className="project-technologies">Technologies: {project.technologies.join(", ")}</p>
                         <a href={project.liveLink} target="_blank" rel="noopener noreferrer" className="live-link">View Live</a>
